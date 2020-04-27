@@ -1,18 +1,18 @@
 
 ## Project title: 
-  readme Generator
-   
+  Readme Generator
+
 ## Project by 
-  Shakhawat Hossain
+  AMITH DAS
 ##
-  ![](https://avatars3.githubusercontent.com/u/25496922?v=4)
+  ![](https://avatars3.githubusercontent.com/u/60905198?v=4)
 ## Email adress: 
-  sh_donas@yahoo.com
+  amith123.ad@gmail.com
 ## GitHub: 
-  https://github.com/shdonas
+  https://github.com/dasamith
 
 ## Description: 
-  this is a nodeJS project to auto generate readme file
+  this web app will ask questions to the client and get answers, and generate a readme file based on the answers.  
 ## Table of Contents
 
     - [Installation](#installation)
@@ -23,19 +23,19 @@
     - [Questions](#Questions)
   
 ## Installation 
-  npm init
+  first do npm init inside the bash.then execute node index.js to run the program
   
 ## Usage
-  lot lot
+  this will make user life while writing a read me file
   
 ## License
-  MIT
+  other
   
 ## Contributing
-  donas
+  upenn bootcamp 
   
 ## Tests
-  none
+  no testing phase
   
 ## Questions
   Questions
