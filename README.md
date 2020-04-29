@@ -7,12 +7,12 @@
 ##
   ![](https://avatars3.githubusercontent.com/u/60905198?v=4)
 ## Email adress: 
-  amith123.ad@gmail.com
+  asdas@sdf.com
 ## GitHub: 
   https://github.com/dasamith
 
 ## Description: 
-  this web app will ask questions to the client and get answers, and generate a readme file based on the answers.  
+  it will generate a readme file
 ## Table of Contents
 
     - [Installation](#installation)
@@ -23,19 +23,19 @@
     - [Questions](#Questions)
   
 ## Installation 
-  first do npm init inside the bash.then execute node index.js to run the program
+  npm init
   
 ## Usage
-  this will make user life while writing a read me file
+  it makes life easy while writing a readme file
   
 ## License
   other
   
 ## Contributing
-  upenn bootcamp 
+  penn lps
   
 ## Tests
-  no testing phase
+  no tests yet
   
 ## Questions
   Questions

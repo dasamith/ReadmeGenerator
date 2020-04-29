@@ -1,5 +1,5 @@
 function generate(data) {
-    return `
+  return `
 ## Project title: 
   ${data.title}
 
